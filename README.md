@@ -14,7 +14,7 @@
 
 **Data / Business / Research Analyst — Auckland, New Zealand**
 
-I turn raw data into decisions. I'm completing a **Master of Business Analytics at the University of Auckland** (graduating 2026) and currently work as a **Research Analyst at Technology Investment Network (TIN)**, where I build and validate the data behind the TIN200 — New Zealand's leading ranking of its largest technology exporters.
+I turn raw data into decisions. I hold a Master of Business Analytics from the University of Auckland and work as a Research Analyst at Technology Investment Network (TIN), where I build and validate the data behind the TIN200 — New Zealand's leading ranking of its largest technology exporters.
 
 Before moving into analytics I spent 12+ years leading talent and HR operations for global firms in India and the UK — building executive dashboards, running cost and salary-benchmarking analysis, and managing system implementations. That gives me something a lot of new analysts don't have: **the ability to translate between a business question and the data that answers it.**
 
@@ -48,7 +48,7 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 
 ### 🎓 Education
 
-- **Master of Business Analytics** — University of Auckland (2025–2026)
+- **Master of Business Analytics** — University of Auckland (2025–2026) - Graduated
 - **MBA, HR & Systems** — SRM University (First Class)
 - **B.E. Computer Science** — Anna University
 
