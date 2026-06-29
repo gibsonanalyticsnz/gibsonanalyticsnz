@@ -48,7 +48,7 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 
 ### 🎓 Education
 
-- **Master of Business Analytics** — University of Auckland (2025–2026) - Graduated
+- **Master of Business Analytics** — University of Auckland (2025–2026) 
 - **MBA, HR & Systems** — SRM University (First Class)
 - **B.E. Computer Science** — Anna University
 
