@@ -58,7 +58,7 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 
 - 📍 Auckland, New Zealand
 - 💼 [LinkedIn](https://www.linkedin.com/in/gibsong2)
-- 📧 giftyzgibson@gmail.com
+- 📧 gibson.analytics.nz@gmail.com / giftyzgibson@gmail.com
 
 <!-- Optional: GitHub stats card. Uncomment after your repos are public. -->
 <!--
