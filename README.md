@@ -52,8 +52,6 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 - **MBA, HR & Systems** — SRM University (First Class)
 - **B.E. Computer Science** — Anna University
 
-🌐 **[View my portfolio website →](https://gibsonanalyticsnz.github.io)**
-
 ---
 
 ### 📫 Get in touch
@@ -61,6 +59,7 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 - 📍 Auckland, New Zealand
 - 💼 [LinkedIn](https://www.linkedin.com/in/gibsong2)
 - 📧 gibson.analytics.nz@gmail.com / giftyzgibson@gmail.com
+- 🌐 **[View my portfolio website →](https://gibsonanalyticsnz.github.io)**
 
 <!-- Optional: GitHub stats card. Uncomment after your repos are public. -->
 <!--
