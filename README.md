@@ -52,6 +52,8 @@ Before moving into analytics I spent 12+ years leading talent and HR operations 
 - **MBA, HR & Systems** — SRM University (First Class)
 - **B.E. Computer Science** — Anna University
 
+🌐 **[View my portfolio website →](https://gibsonanalyticsnz.github.io)**
+
 ---
 
 ### 📫 Get in touch
